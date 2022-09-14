@@ -8,4 +8,4 @@ I'm a Web3/Blockchain Developer currently working on projects with Solidity, Jav
 
 I'm looking for my first work experience as a developer. Here you can check out what I've been working on.
 
-"What you might see now is ordinary glass, I promise you will soon remain to see a diamond".
+"What you might see now is ordinary glass, I promise you will soon remain to see a diamond" - Ramanujan from *The man who knew infinity*.
