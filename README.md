@@ -1,4 +1,4 @@
-<h2> Hi there 👋, I'm Ruben Alejandro Puca Vilte! </h2>
+<h2> Hi there 👋, I'm Ruben Vilte! </h2>
     
 [![Puca's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandropuca/)
 
